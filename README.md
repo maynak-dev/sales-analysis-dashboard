@@ -5,19 +5,33 @@ An interactive dashboard built in Power BI to analyze and visualize sales data a
 
 Folder Structure:
 sales-analysis-dashboard/
+
 │
+
 ├── data/
+
 │   ├── sales_data_raw.csv
+
 │   ├── cleaned_sales_data.xlsx
+
 │
+
 ├── reports/
+
 │   ├── IT_Sales_Performance.pbix
+
 │   ├── KPI_Report_Snapshot.png
+
 │
+
 ├── docs/
+
 │   ├── Data_Model_Structure.png
+
 │   ├── README_Notes.txt
+
 │
+
 └── README.md
 
 Features:
