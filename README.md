@@ -1,5 +1,4 @@
-##Sales Data Analysis Dashboard – Power BI & Excel
-
+ Sales Data Analysis Dashboard – Power BI & Excel
 **Overview:**
 An interactive dashboard built in Power BI to analyze and visualize sales data across products, regions, and customer segments. The dashboard provides insights into total revenue, top-performing products, and month-over-month growth trends. Data cleaning and transformation were performed in Excel before connecting to Power BI.
 
